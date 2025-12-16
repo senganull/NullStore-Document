@@ -1,5 +1,4 @@
 # Table of contents
 
-* [Home](Home.md)
-
+* [Home](./)
 * [Null-ScoreBoard](Null-ScoreBoard/)
